@@ -1,7 +1,7 @@
 resource "null_resource" "tfc_test" {
 
 
-  count = 15
+  count = 50
 
 
 
